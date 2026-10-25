@@ -1,16 +1,4 @@
-addIngredient("aloe_water",{
-    type:"liquid",
-    color:"#d9ffce",
-});
-addIngredient("hibiscus_extract",{
-    type:"liquid",
-    color:"#8B0000",
-});
-addIngredient("carrot_juice",{
-    type:"liquid",
-    color:"#ffd17a",
-});
-addIngredient("rhubarb_juice",{
-    type:"liquid",
-    color:"#E34253",
+addIngredient("strawberry_mochi", {
+    color: "#ff6699",
+    type: "fruit"
 });
